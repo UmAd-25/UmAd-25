@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UmAd-25
-- 👀 Physics Student - Novice/Hobbyist Programmer
+- 👀 Physics Student - Hobbyist Programmer
 - 🌱 Currently learning C++ and Game Development
 
 <!---
