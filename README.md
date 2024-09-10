@@ -1,5 +1,6 @@
-Greetings
-- Physics Student - Hobbyist Programmer
+Greetings all,
+
+- Physics Student - Programming Hobbyist
 - Currently learning C++ and Game Development
 
 <!---
